@@ -1,7 +1,7 @@
 <div id="top"></div>
 
 
-[![LinkedIn][linkedin-shield]][https://www.linkedin.com/in/roberto-baca]
+[![LinkedIn][https://www.linkedin.com/in/roberto-baca]]
 
 
 <!-- PROJECT LOGO -->
