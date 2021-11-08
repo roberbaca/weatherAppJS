@@ -48,8 +48,9 @@
 ## Contact
 
 Roberto Nicolas Baca - roberto.nicolas.baca@gmail.com
-[linkedin-url]: https://linkedin.com/in/roberto-baca
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[![LinkedIn][linkedin-shield]][linkedin-url]
+[stars-shield]: https://img.shields.io/github/stars/roberbaca/weatherAppJS.svg?style=for-the-badge
+[stars-url]: https://github.com/roberbaca/weatherAppJS/stargazers
 
 Project Link: [https://github.com/roberbaca/weatherAppJS](https://github.com/roberbaca/weatherAppJS)
 
