@@ -15,8 +15,7 @@
 
   <p align="center">
     Weather website coded in JavaScript Vanilla. The background image of the site changes with daylight time of the city.
-    <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
+    <br />  
     <br />
     <br />
     <a href="https://weatherjs.vercel.app/">View Demo</a>  
