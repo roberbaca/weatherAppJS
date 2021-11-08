@@ -25,9 +25,20 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
+Here’s some screenshots which demonstrates the functionality of the app that I create:
+
 ![image](https://user-images.githubusercontent.com/83043304/140669148-7fd17008-7981-4c99-a46f-1c70e0ad9a93.png)
 
 ![image](https://user-images.githubusercontent.com/83043304/140669158-0a4c0a8e-d2e6-4669-b92d-6993ce40c8bb.png)
+
+ It´s a simple, yet fully functional weather app with Vanilla JavaScript. 
+ 
+I use a provider that let me incorporate its weather data into my app. Luckily enough, there are several different providers out there for developing weather apps. Most of them include a free package along with premium subscriptions that scale depending on the services/features.  I use OpenWeatherMap, one of the most popular free choices. 
+
+It’s worth noting that OpenWeatherMap comes with its own icon set. However, I decided to go one step further and use some custom ones from https://erikflowers.github.io/weather-icons/.
+
+The background image changes with the daylight conditions of the city you search for (day time or night time).
+
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -48,13 +59,13 @@
 ## Contact
 
 Roberto Nicolas Baca - roberto.nicolas.baca@gmail.com
-[![LinkedIn][linkedin-shield]][linkedin-url]
-[stars-shield]: https://img.shields.io/github/stars/roberbaca/weatherAppJS.svg?style=for-the-badge
-[stars-url]: https://github.com/roberbaca/weatherAppJS/stargazers
 
 Project Link: [https://github.com/roberbaca/weatherAppJS](https://github.com/roberbaca/weatherAppJS)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
+
+
+I hope that you enjoyed my app !
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
